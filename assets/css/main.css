@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'ConthraxSb-Regular';
-    src: url('/fonts/conthrax-sb.otf') format('otf');
+    src: url('/fonts/conthrax-sb.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
